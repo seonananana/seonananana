@@ -1,16 +1,20 @@
-## Hi there 👋
+# 임선아
 
-<!--
-**seonananana/seonananana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- KPI Decision Support System
+- Insurance AI (RAG)
+- Emotion Analyzer
+- EmoTrust
+- SmartCan SPC
+- COVID19 Twitter Analytics
+
+## Interests
+
+- AI
+- NLP
+- Forecasting
+- Data Engineering
+- Smart Factory
