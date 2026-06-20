@@ -8,7 +8,7 @@
 - Insurance AI (RAG)
 - Emotion Analyzer
 - EmoTrust
-- SmartCan SPC
+- SmartCan
 - COVID19 Twitter Analytics
 
 ## Interests
