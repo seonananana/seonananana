@@ -1,6 +1,6 @@
 # 임선아 (Seona Lim)
 
-🎓 Data Science
+🎓 Data Science(Smart Manufacturing Systems)
 
 ## Featured Projects
 
