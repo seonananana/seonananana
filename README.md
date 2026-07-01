@@ -16,7 +16,7 @@
 
 * COVID-19 Twitter Analytics
 
-Competitions & Programs
+## Competitions & Programs
 
 SKT FLY AI Challenger (2026)
 - AI/Data-focused industry training and team project program
