@@ -16,24 +16,23 @@
 
 * COVID-19 Twitter Analytics
 
-## Competitions & Programs
+Competitions & Programs
 
-* SKT FLY AI Challenger (2026)
+SKT FLY AI Challenger (2026)
+- AI/Data-focused industry training and team project program
 
-   -AI/Data-focused industry training and team project program
+President's Cup on Campus (2025)
+- RAG-based Insurance Q&A/Search System
 
-* President's Cup on Campus (2025)
+KB Future Finance AI Challenge (2025)
+- AI-based financial service innovation competition participant
 
-   -RAG-based Insurance Q&A/Search System
+LG Aimers 7th (2025)
+- Completed LG Aimers / Data Intelligence Program
+- Hackathon: Food Service Menu Demand Forecasting :contentReference[oaicite:0]{index=0}
 
-* KB Future Finance AI Challenge (2025)
-
-   -AI-based financial service innovation competition participant
-
-* Ministry of Unification Public Data Utilization Competition (2025)
-
-   -Public data-driven policy and social problem-solving project participant
-
+통일부 Public Data Utilization Competition (2025)
+- Public data-driven policy and social problem-solving project participant
 ## Research Interests
 
 * Data-Centric AI
