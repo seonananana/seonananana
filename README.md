@@ -11,6 +11,8 @@ I am interested in developing reliable, data-driven decision support systems und
 
 ## Featured Projects
 
+<table><tr><td>
+
 ### University KPI Decision Support System
 
 Pre-computes university evaluation indicators before the official disclosure, in production
@@ -21,6 +23,10 @@ Pre-computes university evaluation indicators before the official disclosure, in
 - **Decision** Top 20 percent simulation and target management by disclosure season
 - **Impact** Used by the Evaluation and Audit Team, SCI paper in preparation
 
+</td></tr></table>
+
+<table><tr><td>
+
 ### KPI Harness for Multiple Universities
 
 Extends the single-university system into a multi-university service, in progress
@@ -28,6 +34,10 @@ Extends the single-university system into a multi-university service, in progres
 - **Engine** Calculation core kept unchanged
 - **Operations** Automated collection, validation and per-university reports
 - **Control** Human approval at every step
+
+</td></tr></table>
+
+<table><tr><td>
 
 ### SmartCan
 
@@ -37,6 +47,8 @@ Real-time process monitoring with automatic correction, IoT prototype
 - **Detect** SPC and CUSUM anomaly detection
 - **Correct** R2R automatic correction loop
 - **Pipeline** RFID and MQTT data flow into FastAPI, PostgreSQL and Grafana
+
+</td></tr></table>
 
 
 ## Experience
