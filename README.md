@@ -8,10 +8,10 @@ Data and ML Engineer building trustworthy forecasting and monitoring systems
 
 I am interested in developing reliable, data-driven decision support systems under uncertainty. My research interests include robust forecasting, uncertainty quantification, and explainable anomaly detection, with applications in industrial engineering, particularly quality control, process monitoring, and remaining useful life (RUL) prediction.
 
-
 ## Featured Projects
 
-<table><tr><td>
+<table>
+<tr><td>
 
 ### University KPI Decision Support System
 
@@ -23,9 +23,7 @@ Pre-computes university evaluation indicators before the official disclosure, in
 - **Decision** Top 20 percent simulation and target management by disclosure season
 - **Impact** Used by the Evaluation and Audit Team, SCI paper in preparation
 
-</td></tr></table>
-
-<table><tr><td>
+<hr>
 
 ### KPI Harness for Multiple Universities
 
@@ -35,9 +33,7 @@ Extends the single-university system into a multi-university service, in progres
 - **Operations** Automated collection, validation and per-university reports
 - **Control** Human approval at every step
 
-</td></tr></table>
-
-<table><tr><td>
+<hr>
 
 ### SmartCan
 
@@ -48,17 +44,17 @@ Real-time process monitoring with automatic correction, IoT prototype
 - **Correct** R2R automatic correction loop
 - **Pipeline** RFID and MQTT data flow into FastAPI, PostgreSQL and Grafana
 
-</td></tr></table>
-
+</td></tr>
+</table>
 
 ## Experience
 
 | Period | Organization | Description |
 |---|---|---|
-| 2026.06 - 2026.09 | **SK Telecom FLY AI** | 420 hours of AI modeling and cloud container operation |
-| 2025.05 - 2026.06 | **Korean Bible University Evaluation and Audit Team** | Built and deployed the KPI system |
+| 2026.06-09 | **SK Telecom FLY AI** | 420 hours of AI modeling and cloud container operation |
+| 2025.05-2026.06 | **Korean Bible University Evaluation and Audit Team** | Built and deployed the KPI system |
 | 2025.10 | **20th President's Cup AI Convergence Competition** | Gold Prize for RAG based insurance Q and A |
-| 2025.07 - 2025.08 | **LG Aimers 7th** | Data Intelligence program and demand forecasting hackathon |
+| 2025.07-08 | **LG Aimers 7th** | Data Intelligence program and demand forecasting hackathon |
 | 2025.06 | **Major Mentoring Program** | Outstanding Mentor Award |
 
 ## Tech Stack
